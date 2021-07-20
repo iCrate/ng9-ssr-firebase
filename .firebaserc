@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fuckadvisor-4b4b7": {
+      "hosting": {
+        "ng9-ssr": [
+          "fuckadvisor-4b4b7"
+        ]
+      }
+    }
+  }
+}
